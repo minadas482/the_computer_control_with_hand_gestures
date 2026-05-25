@@ -1,0 +1,11 @@
+# ninja log v5
+15	703	7935648357441170	CMakeFiles/the_computer_control_with_hand_gestures.dir/hand_tracker.cpp.obj	b11a96aaef254a9d
+47	1124	7935648361652022	externals/robot-cpp/CMakeFiles/RobotCPP.dir/externals/lodepng/lodepng.cpp.obj	ccd0780d3dbaa53a
+20	1785	7935648368249181	CMakeFiles/the_computer_control_with_hand_gestures.dir/gesture_cnn.cpp.obj	96db9d90df4cdb9b
+29	2684	7935648377277065	externals/robot-cpp/CMakeFiles/RobotCPP.dir/src/Utils.cpp.obj	8298fad1ee09cfe0
+41	2693	7935648377382303	externals/robot-cpp/CMakeFiles/RobotCPP.dir/src/Screen.cpp.obj	ae8df91a270c3f5a
+24	3123	7935648381688956	externals/robot-cpp/CMakeFiles/RobotCPP.dir/src/Mouse.cpp.obj	5eb5116219deecb8
+36	3462	7935648385046701	externals/robot-cpp/CMakeFiles/RobotCPP.dir/src/Keyboard.cpp.obj	149a0259d3598fcf
+3462	3601	7935648386392059	externals/robot-cpp/RobotCPP.lib	d0fdb90cba1f17a5
+10	3604	7935648386493956	CMakeFiles/the_computer_control_with_hand_gestures.dir/main.cpp.obj	fdb2f81b0aa459b9
+3605	5643	7935648392832431	the_computer_control_with_hand_gestures.exe	179013069e94b204

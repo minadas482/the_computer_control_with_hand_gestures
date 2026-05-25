@@ -1,0 +1,221 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "externals/robot-cpp/RobotCPP.lib"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"_add_library",
+			"add_library",
+			"add_compile_options",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"C:/Users/johnc/vcpkg/scripts/buildsystems/vcpkg.cmake",
+			"externals/robot-cpp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 653,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++latest -MD"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "/W4"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "/MP"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/externals/robot-cpp/src"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/externals/robot-cpp/externals/lodepng"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "23"
+			},
+			"sourceIndexes" : 
+			[
+				3,
+				5,
+				6,
+				8,
+				11
+			]
+		}
+	],
+	"id" : "RobotCPP::@7266c8415ee1b3f4e559",
+	"name" : "RobotCPP",
+	"nameOnDisk" : "RobotCPP.lib",
+	"paths" : 
+	{
+		"build" : "externals/robot-cpp",
+		"source" : "externals/robot-cpp"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				7,
+				9,
+				10,
+				12
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5,
+				6,
+				8,
+				11
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/src/ActionRecorder.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/src/types.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/src/Mouse.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "externals/robot-cpp/src/Mouse.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/src/Utils.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "externals/robot-cpp/src/Utils.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "externals/robot-cpp/src/Keyboard.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/src/Keyboard.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "externals/robot-cpp/src/Screen.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/src/Screen.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/src/EventHookWindows.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "externals/robot-cpp/externals/lodepng/lodepng.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "externals/robot-cpp/externals/lodepng/lodepng.h",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

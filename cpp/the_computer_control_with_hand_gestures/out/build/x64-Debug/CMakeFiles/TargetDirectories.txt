@@ -1,0 +1,6 @@
+C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/out/build/x64-Debug/CMakeFiles/the_computer_control_with_hand_gestures.dir
+C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/out/build/x64-Debug/externals/robot-cpp/CMakeFiles/RobotCPP.dir
+C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/out/build/x64-Debug/externals/robot-cpp/CMakeFiles/edit_cache.dir
+C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/out/build/x64-Debug/externals/robot-cpp/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+# Visual Studio Build Artifacts
+x64/
+Debug/
+Release/
+*.pdb
+*.exe
+*.obj
+
+# Python virtual environments and caches
+python/venv/
+venv/
+__pycache__/
+*.pyc
+
+# Visual Studio hidden cache
+.vs/
+*.ipch

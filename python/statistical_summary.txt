@@ -1,0 +1,5 @@
+--- STATISTICAL SUMMARY (10,000 Frames) ---
+                               mean  median   std   min   max
+Environment                                                  
+C++ (AYNIYH Compiled)          0.14    0.10  0.20  0.08  7.24
+Python (Interpreter Baseline)  0.23    0.22  0.04  0.15  2.94

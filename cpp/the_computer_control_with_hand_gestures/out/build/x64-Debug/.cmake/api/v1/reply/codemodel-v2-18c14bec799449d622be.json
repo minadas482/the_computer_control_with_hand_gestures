@@ -1,0 +1,102 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "externals/robot-cpp",
+					"jsonFile" : "directory-externals.robot-cpp-Debug-8c99c4b7a24fbdc02ff8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "externals/robot-cpp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "the_computer_control_with_hand_gestures",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "RobotCPP",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "RobotCPP::@7266c8415ee1b3f4e559",
+					"jsonFile" : "target-RobotCPP-Debug-fbdc7c8bc88fef470b98.json",
+					"name" : "RobotCPP",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "the_computer_control_with_hand_gestures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-the_computer_control_with_hand_gestures-Debug-67fdf27dbcfe6ece2b84.json",
+					"name" : "the_computer_control_with_hand_gestures",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures/out/build/x64-Debug",
+		"source" : "C:/Users/johnc/Downloads/The Projects/The Computer Control With Hand Gestures/cpp/the_computer_control_with_hand_gestures"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
